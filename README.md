@@ -1,13 +1,16 @@
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/commerce/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/mail/blob/master/LICENSE)
 
-# **Mail** - Project #3 from Harvard's CS50w-2020
+# **Mail** - Harvard's CS50 2020
 
-## **Technologies**
+## Gmail-like web application. This is the fourth project for CS50's Web Programming with Python and JavaScript.
+
+### **Technologies**
 <ul>
     <li>
         Programming Languages - Python, Javascript HTML5, CSS3
         <br/>
         <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     </li>
@@ -34,7 +37,7 @@
     </li>
 </ul>
 
-## **How to start the project locally?**
+### **How to start the project locally?**
 1. Install [Python](https://www.python.org/downloads/)
 2. Open the folder with the project inside and install the required packages in the virtual environment:
    - `pip install -r requirements.txt`
@@ -43,19 +46,18 @@
    2. `python manage.py migrate`
    3. `python manage.py runserver`
 
-## **Files & Directories**
-- `auctions` - app folder
-  - `images` - images folder
+### **Files & Directories**
+- `inbox` - app folder
   - `migrations` - migrations folder
-  - `static/auctions` - files folder
-  - `templates/auctions` - template folder
+  - `static/inbox` - files folder
+  - `templates/inbox` - template folder
   - `__init__.py` - constructor/package file
   - `admin.py` - admin file
   - `apps.py` - app configuration file
   - `models.py` - models file
   - `urls.py` - routing file
   - `views.py` - views file
-- `commerce` - project file
+- `mail` - project file
   - `__init__.py` - constructor/package file
   - `asgi.py` - deployment file
   - `settings.py` - settings file
