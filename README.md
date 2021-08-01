@@ -1,8 +1,8 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/commerce/blob/master/LICENSE)
 
-# **Mail**
+# **Mail** - Harvard's CS50 2020
 
-## Some kind of Gmail clone. This is the forth project for CS50's Web Programming with Python and JavaScript.
+## Gmail-like web application. This is the fourth project for CS50's Web Programming with Python and JavaScript.
 
 ### **Technologies**
 <ul>
