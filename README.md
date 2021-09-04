@@ -1,9 +1,9 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/mail/blob/master/LICENSE)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/mail)
 
-# **Mail** - CS50's Project #3
+# **Mail** - CS50's Project #4
 
-## Gmail-like web application. Project #3 from CS50's "Web Programming with Python and JavaScript".
+## Gmail-like web application. Project #4 from CS50's "Web Programming with Python and JavaScript".
 
 ### ***Technologies***
 <ul>
