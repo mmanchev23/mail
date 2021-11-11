@@ -1,5 +1,5 @@
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/mail/blob/master/LICENSE)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/mail)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/mail/blob/master/LICENSE)
 
 # **Mail** - CS50's Project #4
 
@@ -51,6 +51,4 @@
 - `.gitignore` - git ignore file
 - `LICENSE` - license file
 - `manage.py` - startup file
-- `Pipfile` - python virtual environment file
-- `Pipfile.lock` - python virtual environment lock file
 - `requirements.txt` - required packages file
